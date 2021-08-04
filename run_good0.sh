@@ -1,3 +1,4 @@
+set -e
 set -x
 
 for f in *; do
